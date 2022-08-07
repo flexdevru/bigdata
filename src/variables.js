@@ -1,3 +1,3 @@
-var showhelp_var = "template_showhelp";
-var completed_var = "template_completed";
-var store_var = "template_store";
+var showhelp_var = "bigdata_showhelp";
+var completed_var = "bigdata_completed";
+var store_var = "bigdata_store";
